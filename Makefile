@@ -1,4 +1,4 @@
-ARDUINO_LIB_PATH=/usr/share/arduino/libraries
+ARDUINO_LIB_PATH=~/Arduino/libraries/
 LIB_LIST=Glcd GlcdStraight GlcdWire
 SOURCE_PATH=`pwd`
 
